@@ -1,2 +1,1 @@
-# intelliveer
-Patient Management System
+Please Refer Document Folder for more information
